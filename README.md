@@ -19,7 +19,7 @@
 ## 👤 WHO I AM
 
 ```yaml
-Name     : 황구영 (Gu-Young Hwang)
+Name     : 정구영 (Gu-Young Jung)
 Role     : 청람M&C 대표 | 한국지역개발경영교육원 원장
 Degree   : 교육학 박사 (Ph.D. in Education)
 Career   : 기업교육 컨설턴트 22년 | 300여 기업·기관
@@ -53,7 +53,7 @@ Focus    : GenAI Literacy · Leadership · ESG · Organizational Culture
 | 🎤 누적 강의시간 | **10,000시간+** |
 | 🧭 누적 코칭시간 | **1,000시간+** |
 | 📦 신규 개발 교육프로그램 | **200+** |
-| 🏢 장기고객사 (15년+) | MG새마을금고 · 하나투어 |
+| 🏢 장기고객사 (10년+) | MG새마을금고 · 하나투어 |
 
 </td>
 </tr>
